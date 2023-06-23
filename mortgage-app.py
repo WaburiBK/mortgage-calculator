@@ -1,3 +1,4 @@
+# Define the basics of the mortgage terms
 principal = 100000
 interest = 7.5
 years = 30
